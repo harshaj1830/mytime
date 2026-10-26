@@ -1,0 +1,5 @@
+{
+  "name": "A Day in Time",
+  "description": "Discover the world that welcomed you — a personal time capsule of your birth day.",
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
